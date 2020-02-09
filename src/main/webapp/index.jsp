@@ -23,7 +23,7 @@
   <center> 
 	  
 	  
-	  <h1 >  Ouma!!!  :)------------->Tests Jenkins |> <img src="good.png"  height="50" width="50"> </h1> 
+	  <h1 >  Ouma!!! it's time to go home  :)------------->Tests Jenkins |> <img src="good.png"  height="50" width="50"> </h1> 
 	  
 	  </br>
           <img src="Jenkins.png"  height="300" width="300"> 
